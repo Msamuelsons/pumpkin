@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@import '_colors';
+
+
+
+body {
+    max-width: 100vw;
+    height: 100vh;
+    background-color: $color-background;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    pointer-events: visible;
+
+    & .pumpkin {
+        width: 100%;
+        display: block;
+        height: 100%;
+    }
+}
+
