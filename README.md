@@ -7,7 +7,7 @@
  - Proyecto creado para la diversión. <es/>
 
 
-![Logo]([image/tela.png](https://raw.githubusercontent.com/Msamuelsons/pumpkin/81b80b769f7926b3992fa495a3890840dbe21514/image/pumpkin.svg?token=AINOODP4XDIAPFV44TXP43LCX6KFS))
+![Logo](https://raw.githubusercontent.com/Msamuelsons/pumpkin/master/image/Captura%20de%20tela%20de%202022-07-01%2021-44-07.png?token=GHSAT0AAAAAABVMOFUV773TQ5SHWTBX2Y4SYV7SVPQ)
 
 
 ## Tecnologias(technologies)
